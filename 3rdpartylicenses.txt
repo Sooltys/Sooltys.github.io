@@ -88,6 +88,8 @@ MIT
 @angular/router
 MIT
 
+ngx-device-detector
+
 rxjs
 Apache-2.0
                                Apache License
